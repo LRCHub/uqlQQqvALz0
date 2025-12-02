@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "breakfast",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-02T11:44:46.012835Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Breakfast Time",
+      "artist": "Secret Band",
+      "has_synced": true,
+      "path": "select/01_Breakfast_Time_Secret_Band.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tidal Waves: Breakfast, Lunch, and Dinner",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/02_Tidal_Waves__Breakfast,_Lunch,_and_Dinner_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Another Breakfast With You",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/03_Another_Breakfast_With_You_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Breakfast",
+      "artist": "Kelis",
+      "has_synced": true,
+      "path": "select/04_Breakfast_Kelis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Breakfast Enthusiast",
+      "artist": "Mux Mool",
+      "has_synced": false,
+      "path": "select/05_Breakfast_Enthusiast_Mux_Mool.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hotel Breakfast",
+      "artist": "Bladee",
+      "has_synced": true,
+      "path": "select/06_Hotel_Breakfast_Bladee.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Breakfast in Bed",
+      "artist": "Nicole Scherzinger",
+      "has_synced": true,
+      "path": "select/07_Breakfast_in_Bed_Nicole_Scherzinger.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Breakfast In Cairo",
+      "artist": "Clipse feat. Kurupt & N.O.R.E.",
+      "has_synced": false,
+      "path": "select/08_Breakfast_In_Cairo_Clipse_feat._Kurupt_&_N.O.R.E..txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Breakfast",
+      "artist": "Fleur East",
+      "has_synced": true,
+      "path": "select/09_Breakfast_Fleur_East.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Everything We Touch - Noah Breakfast Remix",
+      "artist": "Say Lou Lou",
+      "has_synced": false,
+      "path": "select/10_Everything_We_Touch_-_Noah_Breakfast_Remix_Say_Lou_Lou.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Everything We Touch (Noah Breakfast Remix)",
+      "artist": "Say Lou Lou",
+      "has_synced": false,
+      "path": "select/11_Everything_We_Touch_(Noah_Breakfast_Remix)_Say_Lou_Lou.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Breakfast",
+      "artist": "Curren$y",
+      "has_synced": true,
+      "path": "select/12_Breakfast_Curren$y.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Breakfast With My Shadow",
+      "artist": "Cloud Cult",
+      "has_synced": true,
+      "path": "select/13_Breakfast_With_My_Shadow_Cloud_Cult.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "breakfast",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_breakfast_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
